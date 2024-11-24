@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\bin\Debug\QuanLyDSHS.exe.config
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\bin\Debug\QuanLyDSHS.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\bin\Debug\QuanLyDSHS.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\obj\Debug\QuanLyDSHS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\obj\Debug\QuanLyDSHS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\obj\Debug\QuanLyDSHS.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\QuanLyDSHS\obj\Debug\QuanLyDSHS.pdb
