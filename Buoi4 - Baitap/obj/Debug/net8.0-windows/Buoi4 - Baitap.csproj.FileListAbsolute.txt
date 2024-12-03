@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\bin\Debug\net8.0-windows\Buoi4 - Baitap.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\bin\Debug\net8.0-windows\Buoi4 - Baitap.deps.json
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\bin\Debug\net8.0-windows\Buoi4 - Baitap.runtimeconfig.json
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\bin\Debug\net8.0-windows\Buoi4 - Baitap.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\bin\Debug\net8.0-windows\Buoi4 - Baitap.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4___Baitap.formListView.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4___Baitap.formNhanVien.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.AssemblyInfo.cs
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.sourcelink.json
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\refint\Buoi4 - Baitap.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\Buoi4 - Baitap.genruntimeconfig.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi4 - Baitap\obj\Debug\net8.0-windows\ref\Buoi4 - Baitap.dll
