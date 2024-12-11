@@ -1,0 +1,30 @@
+C:\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe.config
+C:\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe
+C:\Lab03-01\Lab03-02\bin\Debug\Lab03-02.pdb
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03-02.exe
+C:\Lab03-01\Lab03-02\obj\Debug\Lab03-02.pdb
+C:\Users\User\Downloads\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe.config
+C:\Users\User\Downloads\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe
+C:\Users\User\Downloads\Lab03-01\Lab03-02\bin\Debug\Lab03-02.pdb
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03-02.exe
+C:\Users\User\Downloads\Lab03-01\Lab03-02\obj\Debug\Lab03-02.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\bin\Debug\Lab03-02.exe.config
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\bin\Debug\Lab03-02.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\bin\Debug\Lab03-02.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03_02.Form1.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03-02.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi 5 - Baitap\obj\Debug\Lab03-02.pdb
