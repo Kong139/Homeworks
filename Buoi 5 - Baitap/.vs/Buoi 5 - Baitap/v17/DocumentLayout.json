@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Dokumenty\\Visual Studio 2022\\C#\\Buoi 5 - Baitap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B764FB-598A-49D1-97A6-4FCB8208A678}|..\\..\\..\\..\\..\\Downloads\\Lab03-01\\Lab03-02\\Lab03-02.csproj|c:\\users\\user\\downloads\\lab03-01\\lab03-02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Lab03-01\\Lab03-02\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Lab03-01\\Lab03-02\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Lab03-01\\Lab03-02\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Lab03-01\\Lab03-02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:04:11.979Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
