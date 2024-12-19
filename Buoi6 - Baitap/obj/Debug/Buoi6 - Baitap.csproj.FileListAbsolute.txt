@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\Buoi6 - Baitap.exe.config
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\Buoi6 - Baitap.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\Buoi6 - Baitap.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - Baitap.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6___Baitap.Form1.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6___Baitap.Properties.Resources.resources
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - Baitap.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - Baitap.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - .628C8C67.Up2Date
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - Baitap.exe
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi6 - Baitap\obj\Debug\Buoi6 - Baitap.pdb
