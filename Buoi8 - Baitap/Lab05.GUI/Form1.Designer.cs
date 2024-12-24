@@ -51,7 +51,7 @@
             this.colKhoa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colDTB = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colChuyenNganh = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.chkResisterMajor = new System.Windows.Forms.CheckBox();
+            this.chkUnregisterMajor = new System.Windows.Forms.CheckBox();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picAvatar)).BeginInit();
@@ -65,14 +65,14 @@
             this.chứcNăngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1159, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1159, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // chứcNăngToolStripMenuItem
             // 
             this.chứcNăngToolStripMenuItem.Name = "chứcNăngToolStripMenuItem";
-            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(93, 26);
+            this.chứcNăngToolStripMenuItem.Size = new System.Drawing.Size(93, 24);
             this.chứcNăngToolStripMenuItem.Text = "Chức năng";
             // 
             // label1
@@ -295,24 +295,24 @@
             this.colChuyenNganh.ReadOnly = true;
             this.colChuyenNganh.Width = 125;
             // 
-            // chkResisterMajor
+            // chkUnregisterMajor
             // 
-            this.chkResisterMajor.AutoSize = true;
-            this.chkResisterMajor.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkResisterMajor.Location = new System.Drawing.Point(974, 86);
-            this.chkResisterMajor.Name = "chkResisterMajor";
-            this.chkResisterMajor.Size = new System.Drawing.Size(173, 21);
-            this.chkResisterMajor.TabIndex = 4;
-            this.chkResisterMajor.Text = "Chưa ĐK chuyên ngành";
-            this.chkResisterMajor.UseVisualStyleBackColor = true;
-            this.chkResisterMajor.CheckedChanged += new System.EventHandler(this.chkResisterMajor_CheckedChanged);
+            this.chkUnregisterMajor.AutoSize = true;
+            this.chkUnregisterMajor.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkUnregisterMajor.Location = new System.Drawing.Point(974, 86);
+            this.chkUnregisterMajor.Name = "chkUnregisterMajor";
+            this.chkUnregisterMajor.Size = new System.Drawing.Size(173, 21);
+            this.chkUnregisterMajor.TabIndex = 4;
+            this.chkUnregisterMajor.Text = "Chưa ĐK chuyên ngành";
+            this.chkUnregisterMajor.UseVisualStyleBackColor = true;
+            this.chkUnregisterMajor.CheckedChanged += new System.EventHandler(this.chkUnregisterMajor_CheckedChanged);
             // 
             // frmStudent
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1159, 556);
-            this.Controls.Add(this.chkResisterMajor);
+            this.Controls.Add(this.chkUnregisterMajor);
             this.Controls.Add(this.dgvStudent);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
@@ -349,7 +349,7 @@
         private System.Windows.Forms.PictureBox picAvatar;
         private System.Windows.Forms.ComboBox cmbFaculty;
         private System.Windows.Forms.TextBox txtGPA;
-        private System.Windows.Forms.CheckBox chkResisterMajor;
+        private System.Windows.Forms.CheckBox chkUnregisterMajor;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnUpload;

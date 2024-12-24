@@ -226,17 +226,14 @@ namespace Lab05.GUI
             }
         }
         //Checkbox lọc những sinh viên chưa đăng ký chuyên ngành
-        private void chkResisterMajor_CheckedChanged(object sender, EventArgs e)
+        private void chkUnregisterMajor_CheckedChanged(object sender, EventArgs e)
         {
-            if(chkResisterMajor.Checked)
-            {
-                var listStudents = studentService.GetAllHasNoMajor();
-                BindGrid(listStudents);
-            }
+            var listStudents = new List<Student>();
+            if (this.chkUnregisterMajor.Checked)
+                listStudents = studentService.GetAllHasNoMajor();
             else
-            {
-                BindGrid(studentService.GetAll());
-            }
+                listStudents = studentService.GetAll();
+            BindGrid(listStudents);
         }
     }
 }
