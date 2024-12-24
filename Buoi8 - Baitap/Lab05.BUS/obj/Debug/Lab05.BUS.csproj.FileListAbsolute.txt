@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.Up2Date
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+C:\Users\User\OneDrive\Dokumenty\Visual Studio 2022\C#\Buoi8 - Baitap\Lab05.BUS\obj\Debug\Lab05.BUS.pdb
